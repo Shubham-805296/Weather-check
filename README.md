@@ -15,5 +15,6 @@ A visually captivating and fully responsive weather application built with **HTM
 - HTML  
 - CSS  
 - Bootstrap  
-- JavaScript  
+- JavaScript
+<img width="1919" height="934" alt="Screenshot 2025-07-15 163735" src="https://github.com/user-attachments/assets/31ac1e58-00b5-49eb-8e5b-63f2f162274a" />
 
