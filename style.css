@@ -1,0 +1,48 @@
+body {
+  background-image: url('https://img.freepik.com/free-photo/fantasy-style-clouds_23-2151057636.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.glass-box {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 2px solid beige;
+  padding: 40px;
+  width: 500px;
+}
+
+#weatherTable {
+  display: none;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 12px;
+  padding: 15px;
+  max-width: 400px;
+  border: 1px solid #ccc;
+}
+
+table {
+  width: 100%;
+  font-size: 0.9rem;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #007BFF;
+  color: white;
+  padding: 8px;
+  font-size: 1rem;
+}
+
+td {
+  padding: 6px 8px;
+  border-bottom: 1px solid #ccc;
+}
